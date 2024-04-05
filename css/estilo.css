@@ -8,4 +8,8 @@
     width: 100px;
     box-shadow: 5px 5px 5px yellow;
 }
-
+#resultado{
+    font-size: 150px;
+    color:blue;
+    margin-left: 100px;
+}
